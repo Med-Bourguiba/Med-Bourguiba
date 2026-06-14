@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohamed Bourguiba (GhostCipherX) 
 
-🏆 Two-time Valedictorian in my Master's degree in Audit and Information Security.
+🏆 Two-time Valedictorian in my Professional Master's degree in Audit and Information Security.
  I am a cybersecurity professional focused on offensive security (Pentesting), defensive operations (SOC/SIEM), and infrastructure hardening.
 
 - 🛡️ **Offensive:** Web & Network Pentesting | Ranked **Hacker (Top 8% globally)** on TryHackMe
