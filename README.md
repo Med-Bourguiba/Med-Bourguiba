@@ -3,7 +3,7 @@
 🏆 Two-time Valedictorian in my Master's degree in Audit and Information Security.
  I am a cybersecurity professional focused on offensive security (Pentesting), defensive operations (SOC/SIEM), and infrastructure hardening.
 
-- 🛡️ **Offensive:** Web & Network Pentesting | Ranked **Hacker (Top 8%)** on TryHackMe
+- 🛡️ **Offensive:** Web & Network Pentesting | Ranked **Hacker (Top 8% globally)** on TryHackMe
 - 🎛️ **Defensive:** SOC/SIEM Deployment & Monitoring (Wazuh, TheHive, Cortex, Suricata)
 - ⚙️ **Automation:** Scripting security tools and active response with Python & Bash
 - ☁️ **Environments:** Linux (Kali), Windows Server, Active Directory, Docker & Virtualization
