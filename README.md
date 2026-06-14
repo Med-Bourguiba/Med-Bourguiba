@@ -12,7 +12,7 @@ Two-time Valedictorian in my Master's degree in Audit and Information Security. 
 ### 🛠️ Tech Stack & Tools
 
 - **OS & Admin:** Kali Linux, Ubuntu, Windows Server, Active Directory
-- **Security Tools:** Nmap, Nessus, Metasploit, Burp Suite, OWASP ZAP, Wireshark
+- **Security Tools:** Nmap, Nessus, Metasploit, Burp Suite, OWASP ZAP, Wireshark, SQLMap, Hydra
 - **Dev & Scripting:** Python, Bash, SQL, Java, JavaScript
 - **DevOps & Cloud:** Docker, VMware, VirtualBox
 
