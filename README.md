@@ -6,7 +6,7 @@
 - 🛡️ **Offensive:** Web & Network Pentesting | Ranked **Hacker (Top 7% globally)** on TryHackMe
 - 🎛️ **Defensive:** SOC/SIEM Deployment & Monitoring (Wazuh, TheHive, Cortex, Suricata)
 - ⚙️ **Automation:** Scripting security tools and active response with Python & Bash
-- ☁️ **Environments:** Linux (Kali), Windows Server, Active Directory, Docker & Virtualization
+- ☁️ **Environments:** Kali Linux, Windows Server, Active Directory, Docker & Virtualization
 
 ---
 
